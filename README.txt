@@ -1,7 +1,5 @@
 RUBENGIOVANNONI.COM — AUSTERE PERSONAL INDEX
 
-Open index.html in a browser.
-
 Files:
 - index.html
 - sites.html
@@ -12,5 +10,6 @@ Files:
 - writing/why-a-personal-website.html
 - style.css
 
-No JavaScript, Node, npm or build step is required.
-Replace placeholder site links and text directly in the HTML files.
+JUST HTML AND CSS, NOTHING ELSE.
+
+WHY ARE YOU IN THE README BTW ARE YOU THIS BORED?
