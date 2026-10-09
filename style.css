@@ -17,7 +17,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Ubuntu, Arial, "Helvetica", sans-serif;
   line-height: 1.6;
 }
 
